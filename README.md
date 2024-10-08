@@ -15,13 +15,13 @@
 
 
 *********************** Output **************************************
-Melisas-MBP-3:SH_SBA308 admin$ node index.js
-learner 22 : Assignment 13 was past due ,10 % is deducted from the assignment 
-learner 19 : Assignment 13 was past due ,10 % is deducted from the assignment 
-learner 17 has submitted the assignment 14 on 09/20/2023 which is too early, the due date is :
-                           09/22/2023
-[
-  {
+Melisas-MBP-3:SH_SBA308 admin$ node index.js                              * 
+learner 22 : Assignment 13 was past due ,10 % is deducted from the        * assignment                                                                *
+learner 19 : Assignment 13 was past due ,10 % is deducted from the        * assignment                                                                *
+learner 17 has submitted the assignment 14 on 09/20/2023 which is too     * early, the due date is :                                                  *
+                           09/22/2023                                     *
+[                                                                         *
+  {       
     id: 17,
     'Assign 10': 0.94,
     'Assign 11': 0.95,
