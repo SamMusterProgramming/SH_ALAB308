@@ -1,13 +1,12 @@
 
 
-
 const courseInfo =
 {
         "id":123,
         "name": "introduction to  React",       
 }
 
-const assignmentInfos = 
+const assignmentInfo = 
 {
     "id": 40,
     "name": "ALAB308.5.5",
